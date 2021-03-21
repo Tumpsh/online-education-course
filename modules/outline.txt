@@ -1,0 +1,17 @@
+introduction
+	-introduction
+		-became interested in methods for improving online learning
+		-wondered if some problems or techniques were specific to certain types of courses, and how different techniques could help different instructors develop online courses
+		-online courses need to be invested fully as their own course. needs and methods are different
+		
+	-motivation
+		-students fail to complete online courses
+		-students mental health is worsening in an increasing culture of online learning
+		-students are missing social aspect of schooling
+		-students need accessibility
+	-overview
+		-
+information_learning
+revision_and_reflection
+	-interactive_activities
+		-
