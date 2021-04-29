@@ -10,32 +10,32 @@ This course is broken up into four modules (aside from the introduction)
 These are meant to reflect the four major "modes" a student is in during various times in a course. Within each module, there are lessons as seen below, discussing techniques or aspects of that part of an online course.
 
 1. Information Learning
-	a. Overview
-	b. Synchronous Lectures
-	c. Flipped Classroom
-	d. Readings
-	e. Seminars
+	- Overview
+	- Synchronous Lectures
+	- Flipped Classroom
+	- Readings
+	- Seminars
 2. Revision and Reflection
-	a. Overview
-	b. Interactive Activities
-	c. Applications
-	d. Peer Reviews
-	e. Take Home Assignments
-	f. Office Hours
+	- Overview
+	- Interactive Activities
+	- Applications
+	- Peer Reviews
+	- Take Home Assignments
+	- Office Hours
 3. Projects
-	a. Overview
-	b. Types of Projects
-	c. Status Checks
-	d. Presentations
-	e. Organizing Groups
-	f. An Activity
+	- Overview
+	- Types of Projects
+	- Status Checks
+	- Presentations
+	- Organizing Groups
+	- An Activity
 4. Evaluation
-	a. Overview
-	b. Exams
-	c. Assignments
-	d. Projects
-	e. Participation
-	f. Weighting
+	- Overview
+	- Exams
+	- Assignments
+	- Projects
+	- Participation
+	- Weighting
 
 One goal in this course is to emphasize the value of a technique, how and when it can be best applied. I additionally aim to utilize the principles of good online course design when implementing this course.
 
