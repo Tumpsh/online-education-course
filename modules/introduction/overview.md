@@ -43,4 +43,5 @@ In some lessons, when I describe a technique, I will either utilize or simulate 
 
 [Previous](motivation.md)
 
+
 [Next](../information_learning.md)
