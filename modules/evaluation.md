@@ -1,0 +1,6 @@
+* [Overview](modules/evaluation/overview.md)
+* [Exams](modules/evaluation/exams.md)
+* [Assignments](modules/evaluation/assignments.md)
+* [Projects](modules/evaluation/projects.md)
+* [Participation](modules/evaluation/participation.md)
+* [Weighting](modules/evaluation/weighting.md)

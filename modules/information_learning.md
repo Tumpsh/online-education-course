@@ -1,0 +1,5 @@
+* [Overview](modules/information_learning/overview.md)
+* [Synchronous Lectures](modules/information_learning/synchronous_lectures.md)
+* [Flipped Classroom](modules/information_learning/flipped_classroom.md)
+* [Readings](modules/information_learning/readings.md)
+* [Seminars](modules/information_learning/seminars.md)

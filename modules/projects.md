@@ -1,0 +1,6 @@
+* [Overview](modules/projects/overview.md)
+* [Types of Projects](modules/projects/types_of_projects.md)
+* [Status Checks](modules/projects/status_checks.md)
+* [Presentations](modules/projects/presentations.md)
+* [Organizing Groups](modules/projects/organizing_groups.md)
+* [An Activity](modules/projects/an_activity.md)

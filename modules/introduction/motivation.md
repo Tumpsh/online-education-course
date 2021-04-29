@@ -31,3 +31,6 @@ Part of the reason online education has persisted is due to its inherent accessi
 As a result of the benefits and detriments of online education, it becomes clear that in order to continue to develop the field of online education, we must focus on improving engagement and student interaction, while emphasizing and maintaining maximal accessibility in our courses. The fact that online education being more accessible implies it is some students' only option reminds us that we must ensure it is a product of equal quality to in-person education.
 
 The subsequent lessons will focus on techniques and how they may or may not, depending on design choices, improve a course's student engagement, social interaction, and overall learning outcomes, while maintaining high accessibility.
+
+[Previous](introduction.md)
+[Next](overview.md)
