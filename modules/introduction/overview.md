@@ -42,4 +42,5 @@ One goal in this course is to emphasize the value of a technique, how and when i
 In some lessons, when I describe a technique, I will either utilize or simulate that technique! Hopefully this will give an idea of how a certain technique may or may not be suitable for your course's needs.
 
 [Previous](motivation.md)
+
 [Next](../information_learning.md)

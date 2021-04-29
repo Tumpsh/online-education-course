@@ -1,3 +1,3 @@
-- [Introduction](modules/introduction/introduction.md)
-- [Motivation](modules/introduction/motivation.md)
-- [Overview](modules/introduction/overview.md)
+- [Introduction](introduction/introduction.md)
+- [Motivation](introduction/motivation.md)
+- [Overview](introduction/overview.md)

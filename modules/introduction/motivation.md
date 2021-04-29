@@ -33,4 +33,5 @@ As a result of the benefits and detriments of online education, it becomes clear
 The subsequent lessons will focus on techniques and how they may or may not, depending on design choices, improve a course's student engagement, social interaction, and overall learning outcomes, while maintaining high accessibility.
 
 [Previous](introduction.md)
+
 [Next](overview.md)

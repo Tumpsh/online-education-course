@@ -9,4 +9,5 @@ I wondered if any techniques would work specifically well in online courses, or 
 I believe that these techniques can be applied or extended to many techniques, and, given knowledge of current issues facing students in online education courses, it is very feasible to improve a course through these techniques.
 
 [Previous](../introduction.md)
+
 [Next](motivation.md)
