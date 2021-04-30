@@ -1,20 +1,4 @@
-introduction
-	-introduction
-		-became interested in methods for improving online learning
-		-wondered if some problems or techniques were specific to certain types of courses, and how different techniques could help different instructors develop online courses
-		-online courses need to be invested fully as their own course. needs and methods are different
-	-motivation
-		-students fail to complete online courses
-		-students mental health is worsening in an increasing culture of online learning
-		-course design can cause significantly worse outcomes for students (mehlenbacher 2000 assignment 3)
-		-students are missing social aspect of schooling
-		-students need accessibility
-			-Online school has great potential for higher accessibility, but courses need to be designed carefully and with intention.
-		-Online education and online courses have potential to make radical changes in education, many of which are promoted by much educational research.
-
 information_learning
-	-overview
-		-The core of a course is the material. How a course presents its material depends on a number of factors, one of which is surely the online setting for online courses. Traditional lecture based courses with traditional assignments may not be the best choice for your online course, but we will discuss the benefits and negatives of different strategies for the primary consumption of course material.
 	-synchronous_lectures
 		-Activity: This first lesson is going to be recorded as a video and linked
 		-Upon first watch, please do not pause the video.
@@ -27,9 +11,7 @@ information_learning
 				-Posting instructors' notes and maintaining documents with all references from the lectures is an additional beneficial way to ensure that stuck students have help in getting unstuck.
 				-Questions during synchronous lectures will typically be less applied, since students have not yet utilized the learnings, and may not have constructed their own understanding as well as if they were able to ask questions while doing some sort of reflective learning.
 				-Synchronous lectures may involve some difficulty in scaling, if a class size is much larger, as the high number of questions and interuptions may disrupt the material too much. 
-		-Brainstorm: What are some effective ways to make synchronous lectures in your course as scalable and effective as possible (even if you don't plan to use them)? What about in a class of 100 students?
-			-Reveal: Breakout rooms (or group work) allow for synchronous lectures to involve social learning, even at a large scale. Additionally, the ability of synchronicity to allow students to see their questions answered with diagrams, demonstrations, or specific responses at the time of asking can be a great benfit.
-		-Please feel free to rewatch the lecture if any concepts are unclear
+
 	-flipped_classroom
 		-A flipped classroom is a course structure in which lectures and course material are typically ingested asynchronously, and activities traditionally considered "assignments" are done in the classroom. This addresses some of the issues with synchronous lectures, as students who get stuck in the information learning part of the material can ask for assistance from instructors precisely at their sticking points. 
 		-Significant amounts of research have put flipped classrooms side by side with traditional course structures and concluded that students frequently have improved learning outcomes (Ishak role 2020 assignemnt 1)
