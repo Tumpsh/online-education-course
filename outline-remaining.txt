@@ -1,0 +1,235 @@
+introduction
+	-introduction
+		-became interested in methods for improving online learning
+		-wondered if some problems or techniques were specific to certain types of courses, and how different techniques could help different instructors develop online courses
+		-online courses need to be invested fully as their own course. needs and methods are different
+	-motivation
+		-students fail to complete online courses
+		-students mental health is worsening in an increasing culture of online learning
+		-course design can cause significantly worse outcomes for students (mehlenbacher 2000 assignment 3)
+		-students are missing social aspect of schooling
+		-students need accessibility
+			-Online school has great potential for higher accessibility, but courses need to be designed carefully and with intention.
+		-Online education and online courses have potential to make radical changes in education, many of which are promoted by much educational research.
+
+information_learning
+	-overview
+		-The core of a course is the material. How a course presents its material depends on a number of factors, one of which is surely the online setting for online courses. Traditional lecture based courses with traditional assignments may not be the best choice for your online course, but we will discuss the benefits and negatives of different strategies for the primary consumption of course material.
+	-synchronous_lectures
+		-Activity: This first lesson is going to be recorded as a video and linked
+		-Upon first watch, please do not pause the video.
+		-Approximate script:
+			-Traditional, synchronous lectures are very common in in-person education, and courses that recently were forced to move online have increased their presence in online education. These types of lectures and courses are the most economical. Instructors need to put effort into developing lectures, but do not need to perfect them, as clarifying questions can be asked in real time, and fewer resources need to be hosted online. 
+			-Synchronous lectures can have increased ability to perform social learning (Epp0009b Albert Bandura stanford), whereas asynchronous learning, be it recordings, readings, et cetera, can sometimes result in staggered social interaction, and questions needing to be remembered, saved, and trains of thought being halted. Of course, these problems can also occur in synchronous learning, if a question isn't answered, or a student needs more attention than is available during a lecture.
+			-Synchronous lectures have some difficulties and some important considerations.
+				-One issue with the typical workflow of traditional lectures is that, if a student is stuck with a concept, and unable to convince themself of the concept, they will be stuck and miss material until they are able to unstick themself. This means that they will have to pursue other learning methods for a portion of the time. This can be a significant deterrent to many choosing to use the method of synchronous lectures at all. 
+				-Recording lectures is a partial solution, as it will at least prevent students from missing synchronous material after becoming stuck. It also allows lectures to be more accessible for studenst with different schedules or needs, or to prevent  students who miss a class from falling behind unnecessarily. As a result, maintaining lecture recordings is *highly* encouraged.
+				-Posting instructors' notes and maintaining documents with all references from the lectures is an additional beneficial way to ensure that stuck students have help in getting unstuck.
+				-Questions during synchronous lectures will typically be less applied, since students have not yet utilized the learnings, and may not have constructed their own understanding as well as if they were able to ask questions while doing some sort of reflective learning.
+				-Synchronous lectures may involve some difficulty in scaling, if a class size is much larger, as the high number of questions and interuptions may disrupt the material too much. 
+		-Brainstorm: What are some effective ways to make synchronous lectures in your course as scalable and effective as possible (even if you don't plan to use them)? What about in a class of 100 students?
+			-Reveal: Breakout rooms (or group work) allow for synchronous lectures to involve social learning, even at a large scale. Additionally, the ability of synchronicity to allow students to see their questions answered with diagrams, demonstrations, or specific responses at the time of asking can be a great benfit.
+		-Please feel free to rewatch the lecture if any concepts are unclear
+	-flipped_classroom
+		-A flipped classroom is a course structure in which lectures and course material are typically ingested asynchronously, and activities traditionally considered "assignments" are done in the classroom. This addresses some of the issues with synchronous lectures, as students who get stuck in the information learning part of the material can ask for assistance from instructors precisely at their sticking points. 
+		-Significant amounts of research have put flipped classrooms side by side with traditional course structures and concluded that students frequently have improved learning outcomes (Ishak role 2020 assignemnt 1)
+		-Additionally, students are able to spend time on exactly the parts of the material that they need to, and can even skip over parts that they feel they understand adequately. Flipped classrooms put a lot of freedom and responsbility in time management and learning pace onto the students.
+		-(Khan ted talk let's use video to reinvent education). Please watch this Ted Talk from one of the most significant contributors to the flipped classroom, Salman Khan of Khanacademy, and generate your own thoughts about his arguments. Feel free to speed through, pause, or skip portions.
+		-Activity: There appears to be two aspects of the flipped classroom that Salman Khan advocates for. The learn-at-your-own-pace aspect, which is provided by KhanAcademy, and the in-person discussions, which a teacher would perform. Are there any downsides to asynchronous learning? Are there any courses this would not work for?
+			-Reveal: It is difficult to implement these types of programs for different kinds of material. Effective tools have been created for many STEM fields and language learning (such as Duolingo), but it may be challenging for instructors in arts departments, or more research intensive courses to implement this type of application. In addition, KhanAcademy has been built up over years, it requires a huge number of resources to create a program like that which will allow for mastery of material at a student's own pace. If one can provide lecture recordings, a student can rewind and watch again, but not experiment as much.
+			-Reveal: Additionally, the flipped classroom may not solve the issue of students wasting time in class. If a student finishes their assignments with little trouble, or early, is there any additional benefit for them to being in person? One consideration would be to allow students who have finished to help others, but this can be excessively difficult in an online setting, and potentially not as scalable.
+		-Brainstorm: Are there any flipped classes you have taken? Would you be able to make your course into a flipped experience? Would it be beneficial to make *part* of your course flipped?
+			-Reveal: Many seminar based courses are essentially flipped, with students conducting readings or research on their own, and discussing in person. Many lessons within traditional courses can involve "flipped" elements, as we will discuss in the subsequent two lessons. The ability for students to learn at their own pace and discuss sticking points and learnings in person 
+		-Activity: Unfortunately, we cannot fully emulate a flipped classroom experience with this course, but I encouraged you to discuss with fellow teachers whether they have considered using a flipped classroom course structure, and their thoughts on the subject, as a replacement for the in-person "homework". It is quite a proposition, and luckily, it does not need to be implemented radically and fully to have benefits on some courses.
+	-readings
+		-Readings are often included in supplemental material for a course. One often sees a course calendar with readings beside lessons scheduled, whether they are required or suggested, or even additional optional material.
+		-In different contexts, however, readings can be quite diverse
+			-Reference: Readings can be important references, with a course involving much of the specific details discussed in the readings
+			-Application: A reading can contextualize information in an authentic use case scenario
+			-Evidence: A reading can justify course learnings that may be abstract or seem arbitrary, even if the specific reasoning behind them is not testable material
+			-History: A reading can motivate knowledge taught in the course by explaining historical context and the series of historical learnings that led up to it
+			-Strategy: A reading can explain a research, development, or analytical technique that will be used by the students in the course
+		-The single biggest issue with readings is that students simply do not do them, required or not (required readings unbtls website). This devalues the readings, and devalues the concept of requirement in the course. Clarity over what will be assessed, what will be necessary, what will give students extra credit, and what material is contained where, is critical for an accessible online course. Students have enough difficulty navigating different learning management systems without unspoken truths and confusions clogging up their course.
+		-Readings, however, can be used as a form of information learning very effectively in some styles of courses. If readings are properly integrated with the course, they can be effective and engaging. 
+			-If a reading is going to be absolutely necessary to understand the course, include it as a main part of information learning, not as an addendum. Write a lecture integrating and outlining the reading, or do a class discussion on the reading.
+			-One critical challenge with readings is the difficulty for students to know which parts of a reading to focus on.
+				- As a result, do not test on reading details in a closed-book setting. Testing on reading material in an open-book setting can be effective, as it will allow students to contextualize learnings from readings.
+				-Ask students to write their own questions on the reading material. This will allow you to emphasize the important parts, and allow students to engage with the reading.
+		-(Getting your students to engage with course readings) Breakout groups and reflection can be important to aid with more rigid and dry forms of information learning.
+		-Activity: What types of readings would be a book in a high school english course? A journal article in a biology seminar? A book in a philosophy course? An original article explaining a key technique in a chemistry laboratory? What are some techniques to encourage information learning in each of these, and how would you evaluate this learning (if at all)?
+	-seminars
+		-Seminars are a method of information learning in which learning is primarily constructed social through discussion. In the methods of information learning, seminars may be the most reflective. They can also be a fantastic tool for engaging students in an online setting, as they are more innately participatory.
+		-Seminars are most frequently used in smaller courses; however, elements of seminar style discussions can be useful in larger courses at higher levels with a more diverse student populace. 
+			-(E Cundell 1467) explored student ratings of activities in a seminar based teacher education course. Of the activities rates the highest, common features included use of a forum, learner-learner interaction, sharing parts of an assignment and receiving feedback.
+		-In courses where students can share their expertise and perspective on a topic as a form of information learning for the other students, seminars are a highly effective way to engage students. 
+		-Brainstorm: How can one create an effective discussion or seminar for information learning in an online setting?
+			-Reveal: Center discussions around topics which have modern applications, or even point out certain applications. Have discussions ongoing as well in online forums. Incorporate findings from online discussions into lessons.
+
+revision_and_reflection
+	-overview
+		-In our module, we will discuss techniques to allow students to reflect on material from information learning, correct mistakes, and engage with material.
+		-A wide variety of techniques are used in traditional classrooms to allow students to let information soak in. With a focus on engagement in online learning, this period is critical for students, and can fill in gaps from information learning as well.
+		-Some traditional techniques have applications in online learning, and there are some techniques that do not work as well in an online setting. Importantly, we aim to optimize a student's time spent reflecting to engage the student, remain accessible, and actively learn the material.
+		-In Huang et al., (assignment 3) instructors in an online math course provided 4 strategies for increasing self-efficacy with material. The course involving these measures had significantly better outcomes in practice items, examinations, and task anxiety. These strategies were put in place after introduction of skills and the relevant material. The four strategies were "affective states" or reassuring messages to students, "vicarious experience" or observing someone performing a task one wants to learn how to do, "mastery experience" or mental practice prior to performing a task, and "social persuasion" or peer feedback. These are all techniques which were not specific to a problem set or lecture, and occurred between activities. Throughout the module, think about how they can be applied and added to various types of reflective activities we discuss, or even information learning.
+	-interactive_activities
+		-Most instructors try to involve students in lectures and other types of learning, be it to ensure that students are paying attention or to provide incentive for students to reflect on the material.
+		-Online courses have a very different set of tools available for interaction. An instructor cannot directly see students or judge attention level.
+			-Implements commonly used in person include cold calls on students, clicker questions, and group activities
+			-Cooper_influence_2018 assignment 3
+			-Cold calls and random calls, though they may provide the most incentive to reflect, also punishes those who need help and strictly increases anxiety among students. Calling on students has a weak relationship with the active learning that these interactive activities aim for, as it does not apply to each student equally, and does not allow for questions that cannot be answered on the spot. Students are only actively engaged when the question is asked of them. Paired with the possibility of asynchronous lectures and difficulty of communicating in online learning environments, cold calls and random calls may be inaccessible and non-productive in an online learning environment. 
+			-Clicker questions or individual knowledge checks can also increase anxiety, if they are time sensitive. Students also have increased anxiety if correct answers are tied to points, but have decreased accuracy if points are provided for completion.
+				-Additionally, students noted that active learning by clicker questions allows them to confirm what they do or do not know without forced social interaction, providing added accessibility.
+				-Students' anxiety increases when they learn that they know less than other students, but decreases when they learn that other students struggle with the same concept. Showing graphs/histograms of answers may not be beneficial for this reason. The graphs can be helpful for instructors to know which concepts to go over, but can increase anxiety for students who get questions wrong. 
+				-Attempts to be neutral, emphasize that it is okay to get the question incorrect, and simply explain how one might arrive at the answer, may frame the errors more accessibly.
+				-Brainstorm: How might an online instructor involve knowledge checks or clicker-style questions in an asynchronous lecture, while minimizing anxiety in students?
+					-Reveal: Some answers include telling the student when to pause the lecture when a question comes up, or using an online lecture platform such as udacity to include quizzes without time limits. 
+				-Brainstorm: How might an instructor involve knowledge checks or clicker-style questions in a synchrononus lecture while minimizing anxiety in students?
+					-Reveal: Provide sufficient time for answering, give participation points for answering rather than correct answers, possibly choose not to show the class's results, or frame the response in a way that does not judge errors.
+			-Group work is another method for active learning, which lends itself to longer form activities. Group activities in class can involve recently discussed material, readings, or other knowledge.
+				-As with clicker questions, group work can increase anxiety when implemented poorly. Students may feel fear of being negatively evaluated while participating in a group activity. 
+				-Students note that group activities, however, improve learning, especially when students are comfortable with the peers in their group.
+				-Allowing students to choose group partners can make group work more inclusive (Cooper and brownwell in Project folder in zotero) for students in underrepresented groups, and decrease anxiety for all students. In an online course, this can be very difficult, as students may not have time to introduce themselves, and cannot easily organize into groups.
+				-Brainstorm: What are some techniques for creating group activities that allow students to feel comfortable, possibly but not necessarily involving allowing them to choose their partners?
+					-Reveal: Having pairs as groups can make finding a partner easier, as fewer connections need to be made via private message or post. Additionally, having auto-generated larger groups, but allowing students adequate time to be introduced within these groups can be beneficial. Emphasizing the need for inclusivity and involving all students can help those who may feel uncomfortable in groups with people they do not know.
+		-Alternative online interactive activities: 
+			-Ozgules et al. 2020 (Assignment 2) shows an example of an interactive learning platform being used to teach architectural history. The students are given solitary time with an e-learning platform which allowed them to learn actively on their own time. Some students in the study stated that they strongly preferred having a human to interact with, and indicated that interactive activities may work best as either supplements to group activities, or as part of a group activity. 
+			-Chang et al. 2014 (Assignment 1) shows an example where independent, unstructured journaling improved foreign language students' performance in an English language course.
+			-Brainstorm: What are some different techniques for combining or synthesizing new interactive activities within your classroom?
+				-Reveal: Paired clicker questions? Lecture watching buddies? Group note-taking?
+	-applications
+		-Applying knowledge from a course is a primary goal of learning. If a course can answer the "why are we learning this?" question, then it will have a much easier time enagaging students.
+		-Applying knowledge critically to a real world scenario or a simulation can provide students a model of how course knowledge is useful, and ties with Huang et al.'s notion of "vicarious experience".
+		-Example: In Steven Strogatz's famously acclaimed Nonlinear Dynamics and Chaos course and corresponding textbook, he takes a break from traditional explanation of the material to discuss a model of an insect outbreak proposed in a famous paper in the field. The paper applies the first few lectures of material in a straightforward way, but to a real world example. 
+			-This is to say that this technique is not specific to courses relevant to current events. STEM courses have scientific papers being published, patents being written, and inventions created. Language courses have a plethora of pop news articles to choose from. Language arts courses can find applications of art and literature to popular politics and sentiment, or analyze a more easily digestible piece of work.
+		-Activity: In a history course, Dr. Eric Martone 2020 (assignment2) used news media to teach content and applied skills.
+			-How does Martone describe what he calls first-level, second level, and third level questions?
+			-How does Martone argue that the increase in time allotted for standardized literacy testing increases the need for activities such as integrating news media? Which of his approaches does he seem to advocate for?
+			-Which approach do you find the most effective?
+			-Are these approaches applicable to your area of teaching? What kinds of media might be usable in your course? 
+			-What are some important features of a piece of media that might be used integrated in a course?
+	-peer_reviews
+		-Peer reviews are essentially similar to the strategy of social persuasion in Huang et al.
+			-As a method of improving self-efficacy, peer reviews can improve a student's perceived capabilities. 
+		-Liang_learning_2010 assignment 2 showed an example of students in a college biology course. Students submitted a biology report and went through three rounds of self, peer, and expert assessment. Students' self-assessment scores were inaccurate to the expert scores. However, their peer assessment scores were more accurate, and improved in accuracy through rounds of peer assessment.
+			-These students were able to learn more about what makes a good paper, and how to interpret a paper, simply by critically engaging with other students' work, and seeing how other students thought of their work.
+			-The knowledge gained from peer feedback (both receiving and providing) appears to have gone beyond the knowledge in the paper. Students are able to experience a broader array of knowledge from other students' work, and are also able to improve their own writing as a result of understanding what their audience desired.
+		-Peer reviews are efficient for giving student example assignments, helping students internalize their own strengths and weaknesses in a non-judgemental way, and providing incentive for students to improve their work, as a peer review may feel more personal and meaningful than an instructor's score.
+		-Important features of peer reviews
+			-Clear guidelines on how to review. Should a student leave scores? If so, provide a rubric. Should a student correct details, such as grammar and formatting? Should a student break feedback into certain sections?
+			-Non-judgmental nature. Students should be anonymous to their peers, if possible. If not possible, a course must emphasize the importance of constructive criticism and non-personal or judgemental feedback.
+			-Discussion. If possible, allow students to engage with their reviewers (may be difficult anonymously), and respond about the feedback given.
+		-Activity: How would you assess this instructor's course plan, based on the knowledge you've learned in this module?
+			-Give example with concrete rubric and instructions
+	-take_home_assignments
+		-Take home assignments are common to most courses, in person or otherwise. They are one of the most common methods for promoting reflection and revisiting knowledge learned.
+		-However, they are also a major source of disparity between students' learning experiences and can make school less accessible, and cause children to fall further behind
+			-As far as high school, cooperation between a student, the students' family, and the instructor can be invaluable in intervening in students who fall behind in homework. In Clausen et al., 2020 (assignment 3), the authors note that students who fall behind in homework are frequently non-contactable, and their parents may be as well, out of school hours, and that this issue is enhanced in remote learning scenarios. 
+			-Beyond the issue of falling behind, students overall have increased difficulty focusing in online learning scenarios, a problem which is only exacerbated when the school-home locations are not separated, and when working online. 
+		-Different course structures, such as flipped classrooms and project based courses often avoid individual, graded homework assignments.
+		-Evaluation of homework which is intended to be completed online has major drawbacks as well
+			-Online homework simply cannot be assumed to have been done without external resources. Many subjects, and especially in courses which used standard textbooks or question banks, will have many answers easily discoverable online. 
+			-Students cannot be assumed to be working solitarily, and, in fact, working together should not be discouraged or disallowed, as online learning has a significant problem with lacking social interaction. 
+			-Cheating detectors can be used, but are easily circumvented through paraphrasing or slight re-thinking.
+			-Consequently, many traditional homework assignments and principles may not be possible in an online setting
+		-Possible strategies
+			-Transition student work to project based activities, if possible. 
+			-In a similar vein, make assignments as creative and open as possible. Allow students to choose topics of their assignments, when possible. This will cause students to engage with the material further, and to avoid copying.
+				-Activity: How might you be able to make homework assignments build on each other, with an end goal like a longer project? How might you be able to add freedom to a question in your homework assignments?
+			-Online assignments have the benefit of being able to involve a wide variety of simulations and technologies. Make homework as interactive, gamified, and user-friendly as possible. 
+				-Example: Physics simulator
+			-Do not prohibit colaboration. If possible, provide a forum for students to colaborate. Public colaboration will help students discuss and work together, while not feeling the need or possibility to directly copy answers. Instructors can additionally comment and correct students when they provide incorrect suggestions.
+				-Example: Piazza screenshot
+			-When possible, ask students to justify their work with words. This can be included in courses even that utilize tools as rigid as coding or mathematics proofs in their assignments. Provide some area for verbal reflection to incentivize students to explain their work. This can also be room for students to reclaim points, or avoid error-carried-forward-type point deductions.
+				-Example: Justify one's code or design
+			-Provide alternate grading schemes for students who do not need or who do poorly on homework assignments. Homework can affect students inequally, especially since adherence to rules, working with peers, and time available may vary widely. Students may need to be able to show their knowledge via group activities, projects, or simply revise for exams. 
+	-office_hours
+		-Office hours can be similar to discussions in flipped classrooms, or other general student-teacher interaction, but with the important caveat that the audience tends to be smaller, targeted at those with specific questions.
+			-This gives students lower social pressure and ability to have deeper discussions of topics, as well as more personal interaction. 
+			-Contact with faculty outside of class increases student retention, performance, and satisfaction (Nadler & Nadler 2000 in project)
+				-However, office hours in particular can have low attendance and superficial discussions.
+		-How can office hours be designed to best help students?
+			-Hooper et al. (project) note that students consider anonymity to be an important feature. This may not be required, but leaving the option could be a benefit to answer all questions that students want to ask.
+			-Passive participation should be allowed for those without questions (via recordings). 
+			-Schedule multiple office hours throughout a week if there are students in different time zones.
+		-Brainstorm:
+			-Can office hours with the option of anonymity still help increase social and personal student-teacher interaction? What are some options to increase this action?
+			-Reveal: Allowing video cameras on, allowing students to submit questions privately but discuss interactively with the larger group.
+
+projects
+	-overview
+		-Projects are major part of education as a whole, as they offer possibly the closest simulation of "real world applications" of their knowledge. Projects can aim to replicate the work environment in which one would use course learnings, or they can encourage students to creatively apply learnings in their own topic of choice. 
+		-Projects may be even more important in online learning, where students can run on more flexible schedules, and exam-based evaluation is extremely tricky.
+		-Some courses are even based in projects entirely.
+		-Alternatively, some recommend making all projects optional (Spencerauthor how to make PBL a reality in distance learning)
+		-However, projects can require large amounts of planning and resources to supply students with adequate guidance and feedback along the way.
+		-In this module, we hope to provide some assistance in designing projects so that students can learn best, without feeling lost and getting help externally.
+	-projects
+		-Project based learning from teacher directed to a student centered experience, where students are actively constructing knowledge. (Skliarova 2021 project)
+		-Project selection
+			-Some courses can have pre-defined projects, with assignments building on previous assignments to form a larger outcome. This can be helpful when specific lessons from a course are related to specific aspects of real world applications (e.g. the week of a biology lecture teaching about bioinformatics corresponds to the part of their laboratory/project where they perform bioinformatic analyses on their samples from previous weeks).
+				-These projects require much planning, as the assignments need to be portioned out so that the workload along the project is reasonable, and intermediate checkpoints can be turned in/graded meaningfully.
+			-Alternatively, a project may give students an end goal, and checkpoints in between, but these checkpoints may be less related to specific lessons and more related to overall project progress or workflow, and involve multiple lessons throughout.
+				-In this case, the checkpoints may be more for the students' benefit, and require more of a participation grade than a proper assignment evaluation. However, in this case, more attention must be paid to student progress individually to ensure that students are not behind expected pace.
+			-Additionally, a project may be quite open ended, with students choosing their own end goals from a category or list. These tend to be best for courses with either very broad learning goals, or courses with fairly well defined techniques being taught.
+				-These will require even more time investment from the instructors in order to ensure that students are keeping up with expectations. 
+				-It is also recommended that students have time to reflect on their and other students' projects in this case, so as to widen the areas of learning for the course. 
+			-Brainstorm: What are some long term projects you have or may in the future implement in your course? Which of these categories does it fit into?
+	-status_checks
+		-What kind of interactions will take place between students and teachers, as well as between students, during the project? 
+			-Projects can occur parallel to lectures or independent of lecture based learning. However, this may result in unfocused work, and confusion about the level of expectations for a project.
+			-Students can discuss projects, or even help with projects (if a project is research based or independent, a student can colaborate with another, collect data from other students, or get advice on resources)
+				-Facilitating student interaction related to a project can increase knowledge construction well beyond the level of traditional learning (joyce hwee ling koh 2010 from project)
+				-This will additionally provide instructors with a good picture of the students' progress.
+			-Students can submit explicitly timed check-ins to teachers (with optionally well defined requirements based on the structure of the project). Important is to determine how strictly a student needs to adhere to a schedule. More freedom is an important benefit for students with different needs, and can make the course significantly more accessible, but structure can also benefit students by preventing them from falling behind in a long term project.
+		-Generally, the more interaction, feedback, and questions between a student and instructors allowed during a project, the better. Investing resources into student projects can pay off greatly in quality of learning.
+	-presentations
+		-One of the unique aspects of project based learning is the construction of an artifact. (Kokotsaki et al. 2016 project) argue that presentation of this artifact can facilitate engagement and is one of the core aspects of project based learning.
+		-Presenting work from a project can be a challenging and exciting aspect of a long term project. Students can feel more pride and ownership in their work if they are able to show that work to other students, the instructors, and the real world. However, students may also feel less ambitious, only have simple learning goals, and project presentations may add stress to a project based learning experience.
+		-Brainstorm: Do some types of projects lend themselves *less* to presentations than others? Hint: think of the three categories detailed in the project selection section
+			-Reveal: Projects where students or groups essentially follow assignments along with a natural progression of learning, the first category detailed, as somewhat less interesting to present for, since students will often come up with functionally similar results. However, presenting to an instructor (periodically, or just at the end), can help instructors give more effective feedback along the way, or clear up misconceptions and better understand the students' success with the material, even in those cases.
+		-Brainstorm: How can online courses implement presentations? How can presentations scale in the cases of larger or massive online courses? 
+			Reveal: Peer feedback assignments, assigning groups to present to each other, asynchronous presentation (recording presentations and uploading them), assigning students to view or reflect on a certain number of asynchronous presentations, are all great ways to allow students in larger courses to interact, present their work, and interact
+	-organizing_groups
+		-Many of the projects detailed can be structured as group projects. Group work can increase social interaction, naturally, and can also allow students to get help and reflect on learning in a smaller setting, with other students and feel less judgement. 
+		-Group projects also have additional considerations
+			-How to match students so that groups are not unfairly advantaged or disadvantaged in their learning or final grades.
+				-Strategies include conducting surveys on comfort with the course material, time spent in a relevant field, and other relevant factors. It is generally advisable to have some more experienced and some less experienced members on a group.
+			-How to match students so that they feel comfortable with their peers and are able to collaborate efficiently.
+				-In courses where students have already created friends, it can be tough to decide whether to let students choose their own groups or not.
+				-Certain issues can be solved by conducting group peer participation evaluations. Additionally, ensuring that students in groups have similar schedules via survey beforehand, and possibly allowing students to search for groups/group members in course forums.
+				-(CMU.edu designing group projects website) and (edtech magazine how to facilitate project learning online) has great tips for general group project design, but additional aspects such as explicitly laying out time for groups to assign roles and tasks, reporting those in the group status checks, or pre-deciding some roles so that people have to draw on each others' skills during the project, can be extremely helpful in facilitating collaboration. 
+			-How to design a project that has approximately the correct workload for the alotted time and number of students, and be flexible enough for groups with less experienced students as well.
+				-This is a great challenge. One possible strategy is to make a project's workload flexible, with stretch goals, extra credit, or flexible workload to begin with (students choose the goals and confirm with an instructor). 
+				-Another important factor is consistent and frequent feedback and interaction with instructors. Students should not be able to remain stuck on parts of the project, and should not be unclear on the goals. Allowing students to have constant open lines of communication will allow groups to get past disagreements or misunderstands more quickly, and achieve the goals of the project in approximately the expected amount of time.
+		-Brainstorm: In your course, would students benefit more from more flexibility: options to choose groups, options to choose project goals, and more social interaction? Or would they benefit more from more structure, and projects where inter-group learning is more built in? How can you combine aspects of these to make sure your group project (if there is one) is successful?
+	-Activity
+		-TODO:List 3 projects, describe lectures, ask users what category of project each is, what kind of status checks each should assign, and any suggestions or improvements to make the project more productive or accessible
+
+evaluation
+	-overview
+		-Evaluation via numerical grade is common to most, but not all courses. 
+		-Grading is generally meant as a way to judge a student's skill, understanding, or effort in a learning outcome. 
+		-Grading is also one of the most stressful and difficult part of a student and an instructor's course experience, and stress related to grades can have negative effects on students if implemented poorly (bjorn hogberg consequences 2019).
+		-Grades are used as evaluations for job recruiters, for graduating from a program, and for completing courses.
+			-As such, finding a non-biased grading system, which allows for students with different needs to be judged fairly, is critical.
+	-exams
+		-(Akimov et al 2020 assignment 3) argues that principles of successful assessment include
+			-Validity: is an assessment testing the content that it intends to (furthermore, is this the content that was taught in the class)
+			-Reliability: does an assessment's score deviate highly with respect to graders, specific questions chosen, wording, timing, or other non-relevant factors?
+			-Fairness: does the assessment bias scores towards against students by factors not related to learning goals, such as gender, language fluency (in non-language courses), attention span, and so on.
+		-Online courses have had notable trouble administering traditional examinations. Traditional exams, held in person, can be proctored somewhat effectively, and cheating detected with statistical analysis, and monitoring students, without much fear of student privacy feeling invaded. 
+			-Online proctoring can require video camera in the student's private home, recording audio, forcing students to find space for the exam which fits certain requirements, monitoring students' internet usage and screen recording, and various other ethically dubious practices. The fact that a school is not able to provide a space for an exam causes many critical issues in administering exams. 
+			-Additionally, accomodations that many schools make for students with learning disabilities during exams, such as longer examination times, distraction-free rooms, and so on, are much more difficult in online schooling.
+		-As such, some courses forgo exams entirely, focusing evaluation into non-timed assessment, as detailed in the following lessons. This is a relatively radical but attractive option. In order to keep courses fair and honest, courses with this policy usually will have anti-cheating measures on assignments which can be automated and are less invasive (as less monitoring needs to take place, just an examination of the final product), or take some steps to ensure independent work while allowing full collaboration on assignments (such as making assignments more open ended and individually creative).
+		-Alternatively, (Akimov_when_2020 assignment 3) investigates whether oral examination is an effective tool for assessment in online courses.
+			-Oral examination provides a somewhat less invasive form of examination, as excessive monitoring may not be necessary, and an examination (if necessary) can be effectively closed-note or closed-book.
+			-Challenges include individual examination requiring many more resources than automated examinations.
+			-Brainstorm: How well does oral examination fare with regard to the three principles of successful assessment?
+				-Reveal: Questions can be designed with similar goals to regular exam questions, allowing oral examinations to be valid. Oral examinations with heavy time pressure (as a regular conversation might have, or an examination where instructors need to individually examine many students) can be somewhat unreliable, if students are unable to un-do some of their work during the examination
+	-assignments
+		-Assignment grades can be easier than examinations and other, especially when assignments are provided with clear guidelines and point values specified beforehand.
+		-Importantly, assignments may have example solutions for similar or alternate questions, which give realistic expectations for students, in order to increase the reliability of students' work.
+		-Assignments additionally should be graded with as much feedback and justification as resources allow
+	-projects
+	-participation
+	-weightin
