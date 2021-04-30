@@ -31,3 +31,26 @@
 	* [Projects](modules/evaluation/projects.md)
 	* [Participation](modules/evaluation/participation.md)
 	* [Weighting](modules/evaluation/weighting.md)
+
+<div class="flip-container">
+	<div class="flipper" onclick="this.classList.toggle('flipped')">
+        
+		<div class="front">
+            <h1>CARD FRONT</h1>
+            <hr />
+            <p>Etiam elit ipsum, tempus quis erat a, facilisis maximus ex. Morbi nec urna magna. Mauris diam mi, feugiat quis orci quis, bibendum egestas dolor. Etiam sed ex a sapien auctor scelerisque. Vestibulum vestibulum elit at accumsan dignissim. Mauris ut turpis ex. Donec bibendum porta nisi, in finibus urna faucibus in. Nunc congue ullamcorper eleifend. Vivamus porttitor, metus ut aliquam tristique, elit justo rhoncus libero, at blandit massa ante ac ipsum. Phasellus aliquam lacus eu mattis consectetur.</p>
+            <hr />
+            <h4>CARD FOOT</h4>
+
+			<!-- front content -->
+            
+		</div>
+		<div class="back">
+    <h1>CARD BACK</h1>
+    <hr />
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis quis felis rhoncus, iaculis lorem vitae, varius diam. Duis nibh lectus, pellentesque ac semper ut, convallis in augue.</p>
+    <hr />
+    <h4>CARD BACKGROUND</h4>
+		</div>
+	</div>
+</div>
