@@ -1,20 +1,8 @@
 introduction
-	-introduction
-		-became interested in methods for improving online learning
-		-wondered if some problems or techniques were specific to certain types of courses, and how different techniques could help different instructors develop online courses
-		-online courses need to be invested fully as their own course. needs and methods are different
-	-motivation
-		-students fail to complete online courses
-		-students mental health is worsening in an increasing culture of online learning
-		-course design can cause significantly worse outcomes for students (mehlenbacher 2000 assignment 3)
-		-students are missing social aspect of schooling
-		-students need accessibility
-			-Online school has great potential for higher accessibility, but courses need to be designed carefully and with intention.
-		-Online education and online courses have potential to make radical changes in education, many of which are promoted by much educational research.
+
 
 information_learning
 	-overview
-		-The core of a course is the material. How a course presents its material depends on a number of factors, one of which is surely the online setting for online courses. Traditional lecture based courses with traditional assignments may not be the best choice for your online course, but we will discuss the benefits and negatives of different strategies for the primary consumption of course material.
 	-synchronous_lectures
 		-Activity: This first lesson is going to be recorded as a video and linked
 		-Upon first watch, please do not pause the video.
@@ -31,16 +19,6 @@ information_learning
 			-Reveal: Breakout rooms (or group work) allow for synchronous lectures to involve social learning, even at a large scale. Additionally, the ability of synchronicity to allow students to see their questions answered with diagrams, demonstrations, or specific responses at the time of asking can be a great benfit.
 		-Please feel free to rewatch the lecture if any concepts are unclear
 	-flipped_classroom
-		-A flipped classroom is a course structure in which lectures and course material are typically ingested asynchronously, and activities traditionally considered "assignments" are done in the classroom. This addresses some of the issues with synchronous lectures, as students who get stuck in the information learning part of the material can ask for assistance from instructors precisely at their sticking points. 
-		-Significant amounts of research have put flipped classrooms side by side with traditional course structures and concluded that students frequently have improved learning outcomes (Ishak role 2020 assignemnt 1)
-		-Additionally, students are able to spend time on exactly the parts of the material that they need to, and can even skip over parts that they feel they understand adequately. Flipped classrooms put a lot of freedom and responsbility in time management and learning pace onto the students.
-		-(Khan ted talk let's use video to reinvent education). Please watch this Ted Talk from one of the most significant contributors to the flipped classroom, Salman Khan of Khanacademy, and generate your own thoughts about his arguments. Feel free to speed through, pause, or skip portions.
-		-Activity: There appears to be two aspects of the flipped classroom that Salman Khan advocates for. The learn-at-your-own-pace aspect, which is provided by KhanAcademy, and the in-person discussions, which a teacher would perform. Are there any downsides to asynchronous learning? Are there any courses this would not work for?
-			-Reveal: It is difficult to implement these types of programs for different kinds of material. Effective tools have been created for many STEM fields and language learning (such as Duolingo), but it may be challenging for instructors in arts departments, or more research intensive courses to implement this type of application. In addition, KhanAcademy has been built up over years, it requires a huge number of resources to create a program like that which will allow for mastery of material at a student's own pace. If one can provide lecture recordings, a student can rewind and watch again, but not experiment as much.
-			-Reveal: Additionally, the flipped classroom may not solve the issue of students wasting time in class. If a student finishes their assignments with little trouble, or early, is there any additional benefit for them to being in person? One consideration would be to allow students who have finished to help others, but this can be excessively difficult in an online setting, and potentially not as scalable.
-		-Brainstorm: Are there any flipped classes you have taken? Would you be able to make your course into a flipped experience? Would it be beneficial to make *part* of your course flipped?
-			-Reveal: Many seminar based courses are essentially flipped, with students conducting readings or research on their own, and discussing in person. Many lessons within traditional courses can involve "flipped" elements, as we will discuss in the subsequent two lessons. The ability for students to learn at their own pace and discuss sticking points and learnings in person 
-		-Activity: Unfortunately, we cannot fully emulate a flipped classroom experience with this course, but I encouraged you to discuss with fellow teachers whether they have considered using a flipped classroom course structure, and their thoughts on the subject, as a replacement for the in-person "homework". It is quite a proposition, and luckily, it does not need to be implemented radically and fully to have benefits on some courses.
 	-readings
 		-Readings are often included in supplemental material for a course. One often sees a course calendar with readings beside lessons scheduled, whether they are required or suggested, or even additional optional material.
 		-In different contexts, however, readings can be quite diverse
@@ -137,7 +115,7 @@ revision_and_reflection
 				-Activity: How might you be able to make homework assignments build on each other, with an end goal like a longer project? How might you be able to add freedom to a question in your homework assignments?
 			-Online assignments have the benefit of being able to involve a wide variety of simulations and technologies. Make homework as interactive, gamified, and user-friendly as possible. 
 				-Example: Physics simulator
-			-Do not prohibit colaboration. If possible, provide a forum for students to colaborate. Public colaboration will help students discuss and work together, while not feeling the need or possibility to directly copy answers. Instructors can additionally comment and correct students when they provide incorrect suggestions.
+			-Do not prohibit colaboration. If possible, provide a forum for students to collaborate. Public colaboration will help students discuss and work together, while not feeling the need or possibility to directly copy answers. Instructors can additionally comment and correct students when they provide incorrect suggestions.
 				-Example: Piazza screenshot
 			-When possible, ask students to justify their work with words. This can be included in courses even that utilize tools as rigid as coding or mathematics proofs in their assignments. Provide some area for verbal reflection to incentivize students to explain their work. This can also be room for students to reclaim points, or avoid error-carried-forward-type point deductions.
 				-Example: Justify one's code or design
@@ -177,7 +155,7 @@ projects
 	-status_checks
 		-What kind of interactions will take place between students and teachers, as well as between students, during the project? 
 			-Projects can occur parallel to lectures or independent of lecture based learning. However, this may result in unfocused work, and confusion about the level of expectations for a project.
-			-Students can discuss projects, or even help with projects (if a project is research based or independent, a student can colaborate with another, collect data from other students, or get advice on resources)
+			-Students can discuss projects, or even help with projects (if a project is research based or independent, a student can collaborate with another, collect data from other students, or get advice on resources)
 				-Facilitating student interaction related to a project can increase knowledge construction well beyond the level of traditional learning (joyce hwee ling koh 2010 from project)
 				-This will additionally provide instructors with a good picture of the students' progress.
 			-Students can submit explicitly timed check-ins to teachers (with optionally well defined requirements based on the structure of the project). Important is to determine how strictly a student needs to adhere to a schedule. More freedom is an important benefit for students with different needs, and can make the course significantly more accessible, but structure can also benefit students by preventing them from falling behind in a long term project.

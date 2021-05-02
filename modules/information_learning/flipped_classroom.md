@@ -39,6 +39,7 @@ The flipped classroom may not solve the issue of students wasting time in class.
 Many seminar based courses are essentially flipped, with students conducting readings or research on their own, and discussing in person. Many lessons within traditional courses can involve "flipped" elements, as we will discuss in the subsequent two lessons. The ability for students to learn at their own pace and discuss sticking points and learnings in person is a part of many classes!
 </details>
 
+
 *Activity:* Unfortunately, we cannot fully emulate a flipped classroom experience with this course, but I encourage you to discuss with fellow teachers whether they have considered using a flipped classroom course structure, and their thoughts on the subject, as a replacement for the in-person "homework". It is quite a proposition, and luckily, it does not need to be implemented radically and fully to have benefits on some courses.
 
 [Previous](synchronous_lectures.md)
