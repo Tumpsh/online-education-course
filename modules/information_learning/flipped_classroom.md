@@ -36,7 +36,7 @@ The flipped classroom may not solve the issue of students wasting time in class.
 
 <details><summary>Click here to reveal some ideas!</summary>
 <p>
-Many seminar based courses are essentially flipped, with students conducting readings or research on their own, and discussing in person. Many lessons within traditional courses can involve "flipped" elements, as we will discuss in the subsequent two lessons. The ability for students to learn at their own pace and discuss sticking points and learnings in person is a part of many classes!
+Many seminar based courses are essentially flipped, with students conducting readings or research on their own, and discussing in person. Many lessons within traditional courses can involve "flipped" elements, as we will discuss in the subsequent two lessons. The ability for students to learn at their own pace and discuss sticking points and learnings in person is a part of many classes!</p>
 </details>
 
 
