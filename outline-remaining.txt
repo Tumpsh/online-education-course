@@ -7,14 +7,17 @@ information_learning
 		-Activity: This first lesson is going to be recorded as a video and linked
 		-Upon first watch, please do not pause the video.
 		-Approximate script:
-			-Traditional, synchronous lectures are very common in in-person education, and courses that recently were forced to move online have increased their presence in online education. These types of lectures and courses are the most economical. Instructors need to put effort into developing lectures, but do not need to perfect them, as clarifying questions can be asked in real time, and fewer resources need to be hosted online. 
-			-Synchronous lectures can have increased ability to perform social learning (Epp0009b Albert Bandura stanford), whereas asynchronous learning, be it recordings, readings, et cetera, can sometimes result in staggered social interaction, and questions needing to be remembered, saved, and trains of thought being halted. Of course, these problems can also occur in synchronous learning, if a question isn't answered, or a student needs more attention than is available during a lecture.
-			-Synchronous lectures have some difficulties and some important considerations.
-				-One issue with the typical workflow of traditional lectures is that, if a student is stuck with a concept, and unable to convince themself of the concept, they will be stuck and miss material until they are able to unstick themself. This means that they will have to pursue other learning methods for a portion of the time. This can be a significant deterrent to many choosing to use the method of synchronous lectures at all. 
-				-Recording lectures is a partial solution, as it will at least prevent students from missing synchronous material after becoming stuck. It also allows lectures to be more accessible for studenst with different schedules or needs, or to prevent  students who miss a class from falling behind unnecessarily. As a result, maintaining lecture recordings is *highly* encouraged.
+			-Traditional, synchronous lectures are very common in in-person education, and courses that recently were forced to move online have increased the presence of synchronous lectures in online education.
+			- These types of lectures and courses are the most economical. Instructors need to put effort into developing lectures, but do not need to perfect them, as clarifying questions can be asked in real time, and fewer resources need to be hosted online. 
+			-A study by Albert Bandura found that synchronous lectures can have increased ability to exhibit social learning , whereas asynchronous learning, be it recordings, readings, et cetera, can sometimes result in staggered social interaction, and questions needing to be remembered, saved, and trains of thought being halted. Of course, these problems can also occur in synchronous learning, if a question isn't answered, or a student needs more attention than is available during a lecture.
+			-
+			Overall, Synchronous lectures have some difficulties and some important considerations.
+				-One issue with the typical workflow of traditional lectures is that, if a student is stuck with a concept, and unable to convince themself of the concept, they will be stuck and miss material until they are able to unstick themself. This means that they will have to pursue other learning methods for a portion of the time. This can be a significant deterrent to many choosing to use the method of synchronous lectures at all in online learning. 
+				-Recording synchronous lectures is a partial solution, as it will at least prevent students from missing synchronous material after becoming stuck. It also allows lectures to be more accessible for studenst with different schedules or needs, or to prevent  students who miss a class from falling behind unnecessarily. As a result, maintaining lecture recordings is *highly* encouraged.
 				-Posting instructors' notes and maintaining documents with all references from the lectures is an additional beneficial way to ensure that stuck students have help in getting unstuck.
 				-Questions during synchronous lectures will typically be less applied, since students have not yet utilized the learnings, and may not have constructed their own understanding as well as if they were able to ask questions while doing some sort of reflective learning.
-				-Synchronous lectures may involve some difficulty in scaling, if a class size is much larger, as the high number of questions and interuptions may disrupt the material too much. 
+				-Finally, Synchronous lectures may involve some difficulty in scaling, if a class size is much larger, as the high number of questions and interuptions may disrupt the material too much. 
+
 		-Brainstorm: What are some effective ways to make synchronous lectures in your course as scalable and effective as possible (even if you don't plan to use them)? What about in a class of 100 students?
 			-Reveal: Breakout rooms (or group work) allow for synchronous lectures to involve social learning, even at a large scale. Additionally, the ability of synchronicity to allow students to see their questions answered with diagrams, demonstrations, or specific responses at the time of asking can be a great benfit.
 		-Please feel free to rewatch the lecture if any concepts are unclear
@@ -44,29 +47,5 @@ projects
 
 evaluation
 	-overview
-		-Evaluation via numerical grade is common to most, but not all courses. 
-		-Grading is generally meant as a way to judge a student's skill, understanding, or effort in a learning outcome. 
-		-Grading is also one of the most stressful and difficult part of a student and an instructor's course experience, and stress related to grades can have negative effects on students if implemented poorly (bjorn hogberg consequences 2019).
-		-Grades are used as evaluations for job recruiters, for graduating from a program, and for completing courses.
-			-As such, finding a non-biased grading system, which allows for students with different needs to be judged fairly, is critical.
 	-exams
-		-(Akimov et al 2020 assignment 3) argues that principles of successful assessment include
-			-Validity: is an assessment testing the content that it intends to (furthermore, is this the content that was taught in the class)
-			-Reliability: does an assessment's score deviate highly with respect to graders, specific questions chosen, wording, timing, or other non-relevant factors?
-			-Fairness: does the assessment bias scores towards against students by factors not related to learning goals, such as gender, language fluency (in non-language courses), attention span, and so on.
-		-Online courses have had notable trouble administering traditional examinations. Traditional exams, held in person, can be proctored somewhat effectively, and cheating detected with statistical analysis, and monitoring students, without much fear of student privacy feeling invaded. 
-			-Online proctoring can require video camera in the student's private home, recording audio, forcing students to find space for the exam which fits certain requirements, monitoring students' internet usage and screen recording, and various other ethically dubious practices. The fact that a school is not able to provide a space for an exam causes many critical issues in administering exams. 
-			-Additionally, accomodations that many schools make for students with learning disabilities during exams, such as longer examination times, distraction-free rooms, and so on, are much more difficult in online schooling.
-		-As such, some courses forgo exams entirely, focusing evaluation into non-timed assessment, as detailed in the following lessons. This is a relatively radical but attractive option. In order to keep courses fair and honest, courses with this policy usually will have anti-cheating measures on assignments which can be automated and are less invasive (as less monitoring needs to take place, just an examination of the final product), or take some steps to ensure independent work while allowing full collaboration on assignments (such as making assignments more open ended and individually creative).
-		-Alternatively, (Akimov_when_2020 assignment 3) investigates whether oral examination is an effective tool for assessment in online courses.
-			-Oral examination provides a somewhat less invasive form of examination, as excessive monitoring may not be necessary, and an examination (if necessary) can be effectively closed-note or closed-book.
-			-Challenges include individual examination requiring many more resources than automated examinations.
-			-Brainstorm: How well does oral examination fare with regard to the three principles of successful assessment?
-				-Reveal: Questions can be designed with similar goals to regular exam questions, allowing oral examinations to be valid. Oral examinations with heavy time pressure (as a regular conversation might have, or an examination where instructors need to individually examine many students) can be somewhat unreliable, if students are unable to un-do some of their work during the examination
 	-assignments
-		-Assignment grades can be easier than examinations and other, especially when assignments are provided with clear guidelines and point values specified beforehand.
-		-Importantly, assignments may have example solutions for similar or alternate questions, which give realistic expectations for students, in order to increase the reliability of students' work.
-		-Assignments additionally should be graded with as much feedback and justification as resources allow
-	-projects
-	-participation
-	-weightin

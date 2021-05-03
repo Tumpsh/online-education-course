@@ -25,7 +25,6 @@ One critical challenge with readings is the difficulty for students to know whic
 *Brainstorm:* What types of readings have you encountered in courses? What types of readings, described above, would you classify a novel in a high school english course? A journal article in a biology seminar? A book in a philosophy course? An original article explaining a key technique in a chemistry laboratory?
 
 *Brainstorm:* What are some techniques to encourage information learning in each of these, and how would you evaluate this learning (if at all)?
-TODO
 
 [Previous](flipped_classroom.md)
 
