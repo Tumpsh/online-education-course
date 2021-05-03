@@ -11,7 +11,7 @@ Online proctoring can require video footage in the student's private home, recor
 
 The fact that a school is not able to provide a space for an exam causes many critical issues in administering these exams.
 
-Additionally, accomodations taht many schools make for students with learning disabilities during exams, such as longer examination times, distraction-free rooms, and so on, are much more difficult in online learning.
+Additionally, accommodations that many schools make for students with learning disabilities during exams, such as longer examination times, distraction-free rooms, and so on, are much more difficult in online learning.
 
 As such, some online courses choose to forgo exams entirely, focusing evaluation into non-timed assignment, as detailed in the following lessons. This is a relatively radical but attractive option. 
 
@@ -24,9 +24,9 @@ Oral examination does provide a somewhat less invasive form of examination, as e
 Challenges include individual examination requiring many more resources than automated examinations.
 
 *Brainstorm:* How well does oral examination fare with regard to the three principles of successful assessment?
-<details><summary>Click here to reveal some suggestions!</summary>
+<details><summary style="color:blue">Click here to reveal some suggestions!</summary>
 <p>
-Questions can be designed with similar goals to regular exam questions, allowing oral examinations to be valid. Oral examinations with heavy time pressure (as a regular conversation might have, or an examination where instructors need to individually examine many students) can be somewhat unreliable, if students are unable to un-do some of their work during the examination
+Questions can be designed with similar goals to regular exam questions, allowing oral examinations to be valid. Oral examinations with heavy time pressure (as a regular conversation might have, or an examination where instructors need to individually examine many students) can be somewhat unreliable, if students are unable to undo some of their work during the examination
 </p>
 </details>
 

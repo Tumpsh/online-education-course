@@ -9,10 +9,10 @@ Some traditional techniques have applications in online learning, and there are 
 In Huang et al., [(Huang et al., 2018)](https://journals.sagepub.com/doi/10.1177/0735633118771085) instructors in an online math course provided four strategies for increasing self-efficacy with the course material, and compared with a course that did not implement these strategies. 
 
 The four strategies were 
-	* "Affective states" or reassuring messages to students
-	* "Vicarious experience" or observing someone performing a task one wants to learn to do
-	* "Mastery experience" or mental practice prior to performing a task
-	* "Social persuasion" or peer feedback"
+* "Affective states" or reassuring messages to students
+* "Vicarious experience" or observing someone performing a task one wants to learn to do
+* "Mastery experience" or mental practice prior to performing a task
+* "Social persuasion" or peer feedback"
 
 These are all techniques which were not specific to a problem set or lecture, and occurred between activities. 
 

@@ -10,7 +10,7 @@ In courses where students can share individual expertise and perspective on a to
 
 *Brainstorm:* How can one create an effective discussion or seminar for information learning in an online setting?
 
-<details><summary>Click here to reveal some suggestions!</summary>
+<details><summary style="color:blue">Click here to reveal some suggestions!</summary>
 <p>
 Center discussions around topics which have modern applications, or even point out certain applications. Have discussions ongoing as well in online forums. Incorporate findings from online discussions into lessons.
 </p>

@@ -4,7 +4,7 @@ Projects are a major part of education as a whole, as they offer possibly the cl
 
 Projects may be even more important in online learning, where students can run on more varying schedules, and exam-based evaluation is extremely tricky.
 
-Some course, in fact, are based in projects entirely.
+Some courses, in fact, are based in projects entirely.
 
 Alternatively, some recommend making all projects optional [(Spencer, 2020)](https://spencerauthor.com/pbl-distance/).
 

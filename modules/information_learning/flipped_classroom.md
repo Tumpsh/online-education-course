@@ -18,7 +18,7 @@ There appear to be two aspects of the flipped classroom that Salman Khan advocat
 
 *Brainstorm:* Are there downsides to learn-at-your-own-pace style independent learning?
 
-<details><summary>Click here to reveal some suggestions!</summary>
+<details><summary style="color:blue">Click here to reveal some suggestions!</summary>
 <p>
 It is difficult to implement these types of programs for different kinds of material. Effective tools have been created for many STEM fields and language learning (such as Duolingo), but it may be challenging for instructors in arts departments, or more research intensive courses to implement this type of application. In addition, KhanAcademy has been built up over years, it requires a huge number of resources to create a program like that which will allow for mastery of material at a student's own pace. If one can provide lecture recordings, a student can rewind and watch again, but not experiment as much.
 </p>
@@ -26,15 +26,15 @@ It is difficult to implement these types of programs for different kinds of mate
 
 *Brainstorm:* Are there downsides to these in-person discussions or activities?
 
-<details><summary>Click here to reveal some suggestions!</summary>
+<details><summary style="color:blue">Click here to reveal some suggestions!</summary>
 <p>
 The flipped classroom may not solve the issue of students wasting time in class. If a student finishes their assignments with little trouble, or early, is there any additional benefit for them to being in person? One consideration would be to allow students who have finished to help others, but this can be excessively difficult in an online setting, and potentially not as scalable.</p>
 </details>
 
 
-*Brainstorm:* Have you ever taken a flipped class, or someting similar? Would you be able to make your course into a flipped experience? Would it be beneficial to make *part* of your course flipped?
+*Brainstorm:* Have you ever taken a flipped class, or something similar? Would you be able to make your course into a flipped experience? Would it be beneficial to make *part* of your course flipped?
 
-<details><summary>Click here to reveal some ideas!</summary>
+<details><summary style="color:blue">Click here to reveal some ideas!</summary>
 <p>
 Many seminar based courses are essentially flipped, with students conducting readings or research on their own, and discussing in person. Many lessons within traditional courses can involve "flipped" elements, as we will discuss in the subsequent two lessons. The ability for students to learn at their own pace and discuss sticking points and learnings in person is a part of many classes!</p>
 </details>

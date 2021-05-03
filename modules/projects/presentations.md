@@ -8,14 +8,14 @@ However, students may also feel less ambitious, only have simple learning goals,
 
 *Knowledge Check:* Do some types of projects lend themselves *less* to presentations than others? Hint: think of the three categories detailed in the project selection section
 
-<details><summary>Click here to reveal some suggestions!</summary>
+<details><summary style="color:blue">Click here to reveal some suggestions!</summary>
 <p>
 Projects where students or groups essentially follow assignments along with a natural progression of learning, the first category detailed, as somewhat less interesting to present for, since students will often come up with functionally similar results. However, presenting to an instructor (periodically, or just at the end), can help instructors give more effective feedback along the way, or clear up misconceptions and better understand the students' success with the material, even in those cases.</p>
 </details>
 
 *Brainstorm:* How can online courses implement presentations? How can presentations scale in the cases of larger or massive online courses? 
 
-<details><summary>Click here to reveal some suggestions!</summary>
+<details><summary style="color:blue">Click here to reveal some suggestions!</summary>
 <p>
 Peer feedback assignments, assigning groups to present to each other, asynchronous presentation (recording presentations and uploading them), assigning students to view or reflect on a certain number of asynchronous presentations, are all great ways to allow students in larger courses to interact, present their work, and interact.</p>
 </details>

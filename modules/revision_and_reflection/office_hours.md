@@ -18,7 +18,7 @@ Schedule multiple office hour sessions throughout a week, if there are students 
 
 *Brainstorm:* Can office hours with the option of anonymity still help increase social and personal student-teacher interaction? What are some options to increase this action?
 
-<details><summary>Click here to reveal some suggestions!</summary>
+<details><summary style="color:blue">Click here to reveal some suggestions!</summary>
 <p>
 Allowing video cameras on, allowing students to submit questions privately but discuss interactively with the larger group. These are all options that can increase student-teacher interaction while also maintaining accessibility for students who do not wish to engage at certain times.</p>
 </details>
